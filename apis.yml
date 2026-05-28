@@ -1,0 +1,32 @@
+aid: openafrica
+name: openAFRICA
+description: "Large datasets repository of African open data"
+url: https://africaopendata.org/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Open Data"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Open Data
+  - Public APIs
+apis:
+  - name: openAFRICA
+    description: "Large datasets repository of African open data"
+    humanURL: https://africaopendata.org/
+    baseURL: https://africaopendata.org/
+    tags:
+      - Open Data
+    properties:
+      - type: Documentation
+        url: https://africaopendata.org/
+common:
+  - type: Website
+    url: https://africaopendata.org/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
