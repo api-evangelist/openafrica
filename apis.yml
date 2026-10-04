@@ -41,7 +41,6 @@ apis:
   - name: openAFRICA
     description: "Large datasets repository of African open data"
     humanURL: https://africaopendata.org/
-    baseURL: https://africaopendata.org/
     tags:
       - Open Data
     properties:
